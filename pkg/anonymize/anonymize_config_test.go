@@ -19,6 +19,7 @@ import (
 	"github.com/traefik/traefik/v2/pkg/provider/acme"
 	"github.com/traefik/traefik/v2/pkg/provider/consulcatalog"
 	"github.com/traefik/traefik/v2/pkg/provider/docker"
+	"github.com/traefik/traefik/v2/pkg/provider/dynamodb"
 	"github.com/traefik/traefik/v2/pkg/provider/ecs"
 	"github.com/traefik/traefik/v2/pkg/provider/file"
 	"github.com/traefik/traefik/v2/pkg/provider/http"

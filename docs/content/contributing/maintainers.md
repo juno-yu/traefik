@@ -89,6 +89,7 @@ The `status/*` labels represent the desired state in the workflow.
 * `area/provider/boltdb`: Boltd DB related.
 * `area/provider/consul`: Consul related.
 * `area/provider/docker`: Docker and Swarm related.
+* `area/provider/dynamodb`: DynamoDB related.
 * `area/provider/ecs`: ECS related.
 * `area/provider/etcd`: Etcd related.
 * `area/provider/eureka`: Eureka related.
