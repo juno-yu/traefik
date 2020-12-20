@@ -1125,7 +1125,7 @@ Supported [providers](../providers/overview.md), for now:
 - [x] Consul
 - [x] Consul Catalog
 - [x] Docker
-- [ ] DynamoDB
+- [X] DynamoDB
 - [ ] ECS
 - [x] Etcd
 - [ ] Eureka

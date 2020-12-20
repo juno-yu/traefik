@@ -65,6 +65,10 @@ func NewProviderAggregator(conf static.Providers) ProviderAggregator {
 		p.quietAddProvider(conf.Consul)
 	}
 
+	if conf.DynamoDB != nil {
+		p.quietAddProvider(conf.DynamoDB)
+	}
+
 	if conf.Etcd != nil {
 		p.quietAddProvider(conf.Etcd)
 	}

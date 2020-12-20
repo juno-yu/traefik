@@ -83,6 +83,7 @@ nav:
       - 'Kubernetes Ingress': 'providers/kubernetes-ingress.md'
       - 'Kubernetes Gateway API': 'providers/kubernetes-gateway.md'
       - 'Consul Catalog': 'providers/consul-catalog.md'
+      - 'DynamoDB': 'providers/dynamodb.md'
       - 'ECS': 'providers/ecs.md'
       - 'Marathon': 'providers/marathon.md'
       - 'Rancher': 'providers/rancher.md'
